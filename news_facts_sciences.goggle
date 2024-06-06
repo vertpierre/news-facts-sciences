@@ -6,7 +6,7 @@
 ! license: MIT
 
 ! Downrank everything
-$downrank=2
+$downrank=4
 
 ! News
 $boost=10,site=pewresearch.org
